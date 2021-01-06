@@ -8,7 +8,7 @@
     "dev": "concurrently \"npm run serve\" \"json-server --watch db.json --port 3004\""
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-axios": "^2.1.5",
